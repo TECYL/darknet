@@ -1,6 +1,6 @@
 classes= 1
-train  = /home/kevin/Robotics_Studio2/darknet/data_folder/train.txt
-valid  = /home/kevin/Robotics_Studio2/darknet/data_folder/valid.txt
-names = /home/kevin/Robotics_Studio2/darknet/data/duckie-multi-p4.names
-backup = /home/kevin/Robotics_Studio2/darknet/duckie_backup
+train  = /darknet/data_folder/train.txt
+valid  = /darknet/data_folder/valid.txt
+names = /darknet/data/duckie-multi-p4.names
+backup = /darknet/duckie_backup
 
