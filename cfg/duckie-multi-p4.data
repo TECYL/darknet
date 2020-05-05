@@ -1,6 +1,6 @@
 classes= 1
-train  = /darknet/data_folder/train.txt
-valid  = /darknet/data_folder/valid.txt
-names = /darknet/data/duckie-multi-p4.names
-backup = /darknet/duckie_backup
+train  = /data_folder/train.txt
+valid  = /data_folder/valid.txt
+names = /data/duckie-multi-p4.names
+backup = /duckie_backup
 
