@@ -1,0 +1,10 @@
+data_folder/validset/frame0116.jpg
+data_folder/validset/frame0119.jpg
+data_folder/validset/frame0123.jpg
+data_folder/validset/frame0184.jpg
+data_folder/validset/frame0215.jpg
+data_folder/validset/frame0258.jpg
+data_folder/validset/frame0320.jpg
+data_folder/validset/frame0330.jpg
+data_folder/validset/frame0337.jpg
+data_folder/validset/frame0345.jpg
